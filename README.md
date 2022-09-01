@@ -1,12 +1,15 @@
 # ML-Assignments
 
 ## Table of Contents<!-- omit in toc -->
+- [ML Assignment 1](https://github.com/ManojDhulipalla/ML-Assignments/edit/main/README.md#ml-assignment-1)
+
+
+## ML Assignment 1
 - [Student Info](https://github.com/ManojDhulipalla/ML-Assignments/edit/main/README.md#student-info)
 - [Short Description](https://github.com/ManojDhulipalla/ML-Assignments/edit/main/README.md#short-description)
 - [Video](https://github.com/ManojDhulipalla/ML-Assignments/edit/main/README.md#video)
 
 ---
-
 
 ## Student Info
 

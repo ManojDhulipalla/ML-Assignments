@@ -1,5 +1,4 @@
 # ML-Assignments
-# Assignment 1
 
 ## Table of Contents<!-- omit in toc -->
 - [Overview](#overview)

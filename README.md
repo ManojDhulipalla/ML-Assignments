@@ -1,14 +1,14 @@
 # ML-Assignments
 
 ## Table of Contents<!-- omit in toc -->
-- [Student Info](#Student Info)
-- [Short Description](#short description about assignment)
-- [Video Link] (#Video explaining the code logic and flow)
+- [Student Info](https://github.com/ManojDhulipalla/ML-Assignments/edit/main/README.md#student-info)
+- [Short Description](https://github.com/ManojDhulipalla/ML-Assignments/edit/main/README.md#short-description)
+- [Video Link](https://github.com/ManojDhulipalla/ML-Assignments/edit/main/README.md#video)
 
 ---
 
 
-## Overview
+## Student Info
 
 *sec-teradata-remediation-code* is a Spark Framework repository used by the Heritage Remediation project that reads S/4 Hana data from S3 and writes it to Teradata.
 
@@ -19,4 +19,8 @@ The Heritage Remediation architecture consists of YAML file-driven PySpark jobs 
 For more information, refer to this [Confluence page](https://confluence.nike.com/display/EDAORG/Data+Lifecycle+And+Orchestration).
 
 ---
+## Short Description
+
+## Video 
+- [Video](Videos/ML Assignment 1.mp4)
 

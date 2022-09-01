@@ -1,8 +1,9 @@
 # ML-Assignments
 
 ## Table of Contents<!-- omit in toc -->
-- [Overview](#overview)
-- [Repository Structure](#repository-structure)
+- [Student Info](#Student Info)
+- [Short Description](#short description about assignment)
+- [Video Link] (#Video explaining the code logic and flow)
 
 ---
 

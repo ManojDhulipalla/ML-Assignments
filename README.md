@@ -22,5 +22,5 @@ For more information, refer to this [Confluence page](https://confluence.nike.co
 ## Short Description
 
 ## Video 
-- [Video](Videos/ML Assignment 1.mp4)
+- [Video](https://user-images.githubusercontent.com/112132088/187997876-958ca978-4f5b-4911-b467-83487bfcc979.mp4)
 

@@ -30,7 +30,8 @@ To implement *K-Nearest Neighbor* on the given graph, we imported few functions 
  A video demonstrating the assignment work and explaining the logic for code snippets is provided in the link below:
 - [Video](https://user-images.githubusercontent.com/112132088/187997876-958ca978-4f5b-4911-b467-83487bfcc979.mp4)
 
-
+-------
+-------
 
 ## ML Assignment 2
 - [Student Info](https://github.com/ManojDhulipalla/ML-Assignments#student-info-1)

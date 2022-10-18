@@ -2,7 +2,7 @@
 
 ## Table of Contents<!-- omit in toc -->
 - [ML Assignment 1](https://github.com/ManojDhulipalla/ML-Assignments/edit/main/README.md#ml-assignment-1)
-- [ML Assignment 2](https://github.com/ManojDhulipalla/ML-Assignments/edit/main/README.md#ml-assignment-2)
+- [ML Assignment 2](https://github.com/ManojDhulipalla/ML-Assignments#ml-assignment-2)
 
 
 ## ML Assignment 1

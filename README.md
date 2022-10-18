@@ -45,6 +45,7 @@ To implement *K-Nearest Neighbor* on the given graph, we imported few functions 
 - Student ID : 700725546
 - Gender : Male
 - University of Central Missouri
+- Email : MXD55460@ucmo.edu
 
 ---
 ## Short Description

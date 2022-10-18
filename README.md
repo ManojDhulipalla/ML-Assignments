@@ -55,6 +55,6 @@ To implement *K-Nearest Neighbor* on the given graph, we imported few functions 
 ---
 ## Video 
  A video demonstrating the assignment work and explaining the logic for code snippets is provided in the link below:
-- [Video](https://user-images.githubusercontent.com/112132088/187997876-958ca978-4f5b-4911-b467-83487bfcc979.mp4)
+- [Video](https://user-images.githubusercontent.com/112132088/196564334-b921d8dc-35ce-4551-a30b-a2233dbef47c.mp4)
 
 

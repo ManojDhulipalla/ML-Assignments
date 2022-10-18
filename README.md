@@ -48,9 +48,7 @@ To implement *K-Nearest Neighbor* on the given graph, we imported few functions 
 
 ---
 ## Short Description
-*Machine Learning Assignment 1* is done completely using *Jupiter Notebook*. This Assignment mainly focuses on the python lists, tuples, dictionary, sets and a machine learning algorithm *K-Nearest Neighbor*. We can create lists using square brackets[], tuples using paranthesis(), dictionaries and sets using curly brackets{}. In dictionaries items are stored as key - value pairs. There are many predefined functions in Python to access and modify lists, tuples, dictionaries and sets. In this assignment we used some geometric formulas to calculate area of circle and its circumference.
-
-To implement *K-Nearest Neighbor* on the given graph, we imported few functions from the sklearn package. sklearn package consists many Machine Learning Algorithms in it. Functions like *train_test_split()* to split data into training and testing sets and *KNeighborsClassifier()* to implement KNN on datasets. We also used some other functions like *Confusion_matrix()* to check the accuracy of the KNN algorithm.
+*Machine Learning Assignment 2* is done completely using *Jupiter Notebook*. This Assignment focuses on the python libraries like NumPy, Pandas, Matplotlib. we can access arrays using NumPy module and we can convert these array into different dimensions i.e., converting 1-D array into 2-D array or 3-D array. we can modify those values using indexing. To analyze the data we have pandas library where we can load files like text, csv, excel from the system and apply different functions to modify and analyze the data. To represent out data in visual format we have matplotlib where we can represent data in Bar Charts, Scatter plot, pie charts and graphs. 
 
 ---
 ## Video 

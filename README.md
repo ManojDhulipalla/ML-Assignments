@@ -35,7 +35,7 @@ To implement *K-Nearest Neighbor* on the given graph, we imported few functions 
 ## ML Assignment 2
 - [Student Info](https://github.com/ManojDhulipalla/ML-Assignments#student-info-1)
 - [Short Description](https://github.com/ManojDhulipalla/ML-Assignments/blob/main/README.md#student-info-1)
-- [Video](
+- [Video](https://github.com/ManojDhulipalla/ML-Assignments/blob/main/README.md#video-1)
 
 ---
 

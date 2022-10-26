@@ -3,6 +3,7 @@
 ## Table of Contents<!-- omit in toc -->
 - [ML Assignment 1](https://github.com/ManojDhulipalla/ML-Assignments#ml-assignment-1)
 - [ML Assignment 2](https://github.com/ManojDhulipalla/ML-Assignments#ml-assignment-2)
+- [ML Assignment 3](https://github.com/ManojDhulipalla/ML-Assignments#ml-assignment-3)
 
 
 ## ML Assignment 1
@@ -33,10 +34,10 @@ To implement *K-Nearest Neighbor* on the given graph, we imported few functions 
 -------
 -------
 
-## ML Assignment 2
-- [Student Info](https://github.com/ManojDhulipalla/ML-Assignments#student-info-1)
-- [Short Description](https://github.com/ManojDhulipalla/ML-Assignments/blob/main/README.md#student-info-1)
-- [Video](https://github.com/ManojDhulipalla/ML-Assignments/blob/main/README.md#video-1)
+## ML Assignment 3
+- [Student Info]()
+- [Short Description]()
+- [Video]()
 
 ---
 

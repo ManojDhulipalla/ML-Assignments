@@ -63,9 +63,9 @@ To implement *K-Nearest Neighbor* on the given graph, we imported few functions 
 -------
 
 ## ML Assignment 3
-- [Student Info](https://github.com/ManojDhulipalla/ML-Assignments/blob/main/README.md#student-info-2)
-- [Short Description](https://github.com/ManojDhulipalla/ML-Assignments/blob/main/README.md#short-description-2)
-- [Video](https://github.com/ManojDhulipalla/ML-Assignments/blob/main/README.md#video-2)
+- [Student Info](https://github.com/ManojDhulipalla/ML-Assignments#student-info-2)
+- [Short Description](https://github.com/ManojDhulipalla/ML-Assignments#short-description-2)
+- [Video](https://github.com/ManojDhulipalla/ML-Assignments#video-2)
 
 ---
 

@@ -58,3 +58,31 @@ To implement *K-Nearest Neighbor* on the given graph, we imported few functions 
 - [Video](https://user-images.githubusercontent.com/112132088/196564334-b921d8dc-35ce-4551-a30b-a2233dbef47c.mp4)
 
 
+-------
+-------
+
+## ML Assignment 3
+- [Student Info](https://github.com/ManojDhulipalla/ML-Assignments#student-info-1)
+- [Short Description](https://github.com/ManojDhulipalla/ML-Assignments/blob/main/README.md#student-info-1)
+- [Video](https://github.com/ManojDhulipalla/ML-Assignments/blob/main/README.md#video-1)
+
+---
+
+## Student Info
+
+- Student Name : Manoj Dhulipalla
+- Student ID : 700725546
+- Gender : Male
+- University of Central Missouri
+- Email : MXD55460@ucmo.edu
+
+---
+## Short Description
+*Machine Learning Assignment 3* is done completely using *Jupiter Notebook*. 
+
+---
+## Video 
+ A video demonstrating the assignment work and explaining the logic for code snippets is provided in the link below:
+- [Video](https://user-images.githubusercontent.com/112132088/197916566-5dcfc6c2-60a5-4c05-9e40-514f8530190d.mp4)
+
+

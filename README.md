@@ -4,6 +4,7 @@
 - [ML Assignment 1](https://github.com/ManojDhulipalla/ML-Assignments#ml-assignment-1)
 - [ML Assignment 2](https://github.com/ManojDhulipalla/ML-Assignments#ml-assignment-2)
 - [ML Assignment 3](https://github.com/ManojDhulipalla/ML-Assignments#ml-assignment-3)
+- [ML Assignment 4](https://github.com/ManojDhulipalla/ML-Assignments#ml-assignment-4)
 
 
 ## ML Assignment 1
@@ -85,5 +86,32 @@ To implement *K-Nearest Neighbor* on the given graph, we imported few functions 
 ## Video 
  A video demonstrating the assignment work and explaining the logic for code snippets is provided in the link below:
 - [Video](https://user-images.githubusercontent.com/112132088/197916566-5dcfc6c2-60a5-4c05-9e40-514f8530190d.mp4)
+
+-----
+-----
+
+## ML Assignment 4
+- [Student Info](https://github.com/ManojDhulipalla/ML-Assignments#student-info-3)
+- [Short Description](https://github.com/ManojDhulipalla/ML-Assignments#short-description-3)
+- [Video](https://github.com/ManojDhulipalla/ML-Assignments#video-3)
+
+---
+
+## Student Info
+
+- Student Name : Manoj Dhulipalla
+- Student ID : 700725546
+- Gender : Male
+- University of Central Missouri
+- Email : MXD55460@ucmo.edu
+
+---
+## Short Description
+*Machine Learning Assignment 4* is done completely using *Jupiter Notebook*. In this assignment, we imported few data files using read_csv method and 
+
+---
+## Video 
+ A video demonstrating the assignment work and explaining the logic for code snippets is provided in the link below:
+- [Video]
 
 

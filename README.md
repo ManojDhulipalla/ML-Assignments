@@ -107,7 +107,8 @@ To implement *K-Nearest Neighbor* on the given graph, we imported few functions 
 
 ---
 ## Short Description
-*Machine Learning Assignment 4* is done completely using *Jupiter Notebook*. In this assignment, we imported few data files using read_csv method and 
+*Machine Learning Assignment 4* is done completely using *Jupiter Notebook*. In this assignment, we imported few CSV files using read_csv method and we trained *linear regression* model on Salary_Data data set and found mean squared error. Aditionally, represented the training and testing data in a scatter plot using Matplotlib library. Moreover, we trained *KMeans algorithm* on the K-Mean_dataset and found silhouette score of the raw data. To perform feature scaling on 
+K-Mean_dataset, we used standard scaler method from sklearn library. Later, we trained KMeans on this Preprocessed datset and found silhouette score. when we compare these two silhouette score raw data gets better silhouette score than the preprocessed data.
 
 ---
 ## Video 

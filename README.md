@@ -141,6 +141,6 @@ K-Mean_dataset, we used standard scaler method from sklearn library. Later, we t
 ---
 ## Video 
  A video demonstrating the assignment work and explaining the logic for code snippets is provided in the link below:
-- [Video]
+- [Video](https://user-images.githubusercontent.com/112132088/200898822-56fc528f-55ab-4fbc-b7b2-cda1ddad9fac.mp4)
 
 

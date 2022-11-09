@@ -5,6 +5,7 @@
 - [ML Assignment 2](https://github.com/ManojDhulipalla/ML-Assignments#ml-assignment-2)
 - [ML Assignment 3](https://github.com/ManojDhulipalla/ML-Assignments#ml-assignment-3)
 - [ML Assignment 4](https://github.com/ManojDhulipalla/ML-Assignments#ml-assignment-4)
+- [ML Assignment 5](https://github.com/ManojDhulipalla/ML-Assignments#ml-assignment-5)
 
 
 ## ML Assignment 1
@@ -114,5 +115,32 @@ K-Mean_dataset, we used standard scaler method from sklearn library. Later, we t
 ## Video 
  A video demonstrating the assignment work and explaining the logic for code snippets is provided in the link below:
 - [Video](https://user-images.githubusercontent.com/112132088/199358607-ac654386-8ec8-4a4f-be52-e0ce78cdbf3c.mp4)
+
+----
+----
+
+## ML Assignment 5
+- [Student Info](https://github.com/ManojDhulipalla/ML-Assignments#student-info-4)
+- [Short Description](https://github.com/ManojDhulipalla/ML-Assignments#short-description-4)
+- [Video](https://github.com/ManojDhulipalla/ML-Assignments#video-4)
+
+---
+
+## Student Info
+
+- Student Name : Manoj Dhulipalla
+- Student ID : 700725546
+- Gender : Male
+- University of Central Missouri
+- Email : MXD55460@ucmo.edu
+
+---
+## Short Description
+*Machine Learning Assignment 4* is done completely using *Jupiter Notebook*. In this assignment, 
+
+---
+## Video 
+ A video demonstrating the assignment work and explaining the logic for code snippets is provided in the link below:
+- [Video]
 
 

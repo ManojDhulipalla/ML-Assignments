@@ -6,6 +6,7 @@
 - [ML Assignment 3](https://github.com/ManojDhulipalla/ML-Assignments#ml-assignment-3)
 - [ML Assignment 4](https://github.com/ManojDhulipalla/ML-Assignments#ml-assignment-4)
 - [ML Assignment 5](https://github.com/ManojDhulipalla/ML-Assignments#ml-assignment-5)
+- [ML Assignment 6](https://github.com/ManojDhulipalla/ML-Assignments#ml-assignment-6)
 
 
 ## ML Assignment 1
@@ -136,11 +137,37 @@ K-Mean_dataset, we used standard scaler method from sklearn library. Later, we t
 
 ---
 ## Short Description
-*Machine Learning Assignment 4* is done completely using *Jupiter Notebook*. In this assignment, questions are based on the *principal component analysis*. We performed principal component analysis and linear discriminant analysis on the data sets by importing them using pandas library. When we perform PCA or LDA on a data set, we will get our results by reducing the dimesionality of data. Reducing dimensionality refers PCA ignores the duplicate features of other features and results the features with maximum variance between them. PCA does not rely on the output labels where as LDA depends on output labels. LDA uses the output labels to find the decision boundary line. PCA is an unsupervised while LDA is a supervised dimension reduction technique. After performing PCA or LDA, we will the output data to apply classification techniques. In this assignment, after performing PCA on a data set we applied Support vector machine algorithm on the data. When we perform PCA on a data set and applying KMeans algorithm on the data gives better silhouette score than the raw data's silhouette score.
+*Machine Learning Assignment 5* is done completely using *Jupiter Notebook*. In this assignment, questions are based on the *principal component analysis*. We performed principal component analysis and linear discriminant analysis on the data sets by importing them using pandas library. When we perform PCA or LDA on a data set, we will get our results by reducing the dimesionality of data. Reducing dimensionality refers PCA ignores the duplicate features of other features and results the features with maximum variance between them. PCA does not rely on the output labels where as LDA depends on output labels. LDA uses the output labels to find the decision boundary line. PCA is an unsupervised while LDA is a supervised dimension reduction technique. After performing PCA or LDA, we will the output data to apply classification techniques. In this assignment, after performing PCA on a data set we applied Support vector machine algorithm on the data. When we perform PCA on a data set and applying KMeans algorithm on the data gives better silhouette score than the raw data's silhouette score.
 
 ---
 ## Video 
  A video demonstrating the assignment work and explaining the logic for code snippets is provided in the link below:
 - [Video](https://user-images.githubusercontent.com/112132088/200898822-56fc528f-55ab-4fbc-b7b2-cda1ddad9fac.mp4)
+
+----
+----
+
+## ML Assignment 6
+- [Student Info](https://github.com/ManojDhulipalla/ML-Assignments#student-info-5)
+- [Short Description](https://github.com/ManojDhulipalla/ML-Assignments#short-description-5)
+- [Video](https://github.com/ManojDhulipalla/ML-Assignments#video-5)
+
+---
+
+## Student Info
+
+- Student Name : Manoj Dhulipalla
+- Student ID : 700725546
+- Gender : Male
+- University of Central Missouri
+- Email : MXD55460@ucmo.edu
+
+---
+## Short Description
+*Machine Learning Assignment 6* is done completely using *Jupiter Notebook*. In this assignment, questions are based on the *principal component analysis*. We performed principal component analysis and linear discriminant analysis on the data sets by importing them using pandas library. When we perform PCA or LDA on a data set, we will get our results by reducing the dimesionality of data. Reducing dimensionality refers PCA ignores the duplicate features of other features and results the features with maximum variance between them. PCA does not rely on the output labels where as LDA depends on output labels. LDA uses the output labels to find the decision boundary line. PCA is an unsupervised while LDA is a supervised dimension reduction technique. After performing PCA or LDA, we will the output data to apply classification techniques. In this assignment, after performing PCA on a data set we applied Support vector machine algorithm on the data. When we perform PCA on a data set and applying KMeans algorithm on the data gives better silhouette score than the raw data's silhouette score.
+
+---
+## Video 
+ A video demonstrating the assignment work and explaining the logic for code snippets is provided in the link below:
 
 

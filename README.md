@@ -164,10 +164,12 @@ K-Mean_dataset, we used standard scaler method from sklearn library. Later, we t
 
 ---
 ## Short Description
-*Machine Learning Assignment 6* is done completely using *Jupiter Notebook*. In this assignment, questions are based on the *principal component analysis*. We performed principal component analysis and linear discriminant analysis on the data sets by importing them using pandas library. When we perform PCA or LDA on a data set, we will get our results by reducing the dimesionality of data. Reducing dimensionality refers PCA ignores the duplicate features of other features and results the features with maximum variance between them. PCA does not rely on the output labels where as LDA depends on output labels. LDA uses the output labels to find the decision boundary line. PCA is an unsupervised while LDA is a supervised dimension reduction technique. After performing PCA or LDA, we will the output data to apply classification techniques. In this assignment, after performing PCA on a data set we applied Support vector machine algorithm on the data. When we perform PCA on a data set and applying KMeans algorithm on the data gives better silhouette score than the raw data's silhouette score.
+*Machine Learning Assignment 6* is done completely using *Jupiter Notebook*. In this assignment, questions are based on the *Hierarchical clustering*. We performed standardization and normalization to improve clustering. Principal component analysis on the data sets by importing them using pandas library. When we perform PCA on a data set, we will get our results by reducing the dimesionality of data into two features. Reducing dimensionality refers PCA ignores the duplicate features of other features and results the features with maximum variance between them. After performing PCA we trained Aggolomerative clustering technique on data set by taking no of cluster as 2, 3, 4, and 5. we represented sillhouette scores of algorithm over no of clusters in a bar graph. 
 
 ---
 ## Video 
  A video demonstrating the assignment work and explaining the logic for code snippets is provided in the link below:
+- [Video](https://user-images.githubusercontent.com/112132088/202083867-700d536e-037a-47f4-968e-451e2cae796e.mp4)
+
 
 
